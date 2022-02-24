@@ -2,4 +2,5 @@
 An Autoclicker for Minecraft 7w7
 
 
-![MorsaClicker](https://user-images.githubusercontent.com/91034646/155602771-cd3177ff-ee73-4cc3-9883-fb87f777bdae.png)
+
+![Captura de pantalla (320)](https://user-images.githubusercontent.com/91034646/155603214-67f3de2e-1c5f-4414-9228-666c67b41ff7.png)
