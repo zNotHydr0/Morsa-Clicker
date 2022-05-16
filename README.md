@@ -1,4 +1,4 @@
-# Morsa-Clicker
+# MorsaClicker
 An Autoclicker for Minecraft 7w7
 
 
